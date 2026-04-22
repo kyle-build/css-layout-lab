@@ -1,0 +1,14 @@
+{
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.insertSpaces": false,
+	"editor.tabSize": 2,
+	"prettier.requireConfig": false,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 2,
+	"prettier.printWidth": 100,
+	"[html]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
